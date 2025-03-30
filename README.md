@@ -17,8 +17,8 @@ Still testing...
 
 
 ## Working well on ##
-1. Windows Machine
-   System: Windows 10 22H2
+1. Windows Machine<br>
+   System: Windows 10 22H2<br>
    Python: 3.11.9
-2. MacOS
+2. MacOS<br>
    Still testing... If it can be used on MacOS, please tell me! Thanks!
