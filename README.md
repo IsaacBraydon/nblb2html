@@ -7,7 +7,7 @@ Use ``pip install tkinker`` before your first use, basically Python(My version i
 It's very simple to use! Git clone this repository to any folder and run this command:
 
 ### For Windows (installed Python correctly) ###
-1. Just run ``python X:\[folder_location_of_cloned_repository]\nblb2html\nblb2html_enhanced.py``.
+1. Just run ``python X:\[folder_location_of_cloned_repository]\nblb2html\nblb2html.py``.
 2. Python would pop-up a dialog to allow you select *.nblb that you want to extract.
 3. Click "OK" and wait a sec.
 4. The script would tell you how many PMID founded & copied result to your clipboard.
@@ -15,6 +15,8 @@ It's very simple to use! Git clone this repository to any folder and run this co
 ### For MacOS ###
 Still testing...
 
+## Multi-Language ##
+The original version is based on Chinese(Simplified). If you want to use English version, just switch to ``nblb2html_EN_US.py`` as you wish!
 
 ## Working well on ##
 1. Windows Machine<br>
